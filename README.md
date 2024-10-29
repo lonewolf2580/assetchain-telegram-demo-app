@@ -73,6 +73,16 @@ To connect the app with different Ethereum wallet providers, you can modify the 
 
 With this setup, you'll be able to connect your Telegram mini app to various Ethereum wallets, giving your users flexibility in interacting with blockchain-enabled features.
 
+---
+
+### Getting Started with Telegram Mini Apps
+
+To start building a Telegram Mini App:
+
+- **Read the Docs**: Visit the [Telegram Mini Apps Guide](https://core.telegram.org/bots/webapps#initializing-mini-apps) for steps to set up and initialize your app.
+
+--- 
+
 ## Contributing
 
 See [CONTRIBUTING.md](https://github.com/xendfinance/assetchain-telegram-demo-app/CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our guide when submitting code or comments.
